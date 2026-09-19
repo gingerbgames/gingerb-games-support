@@ -1,0 +1,51 @@
+{
+  "support_home": "index.html",
+  "privacy_policy": "privacy.html",
+  "support_email_placeholder": "gingerbgames@gmail.com",
+  "games": [
+    {
+      "name": "STARGLASS",
+      "file": "starglass.html"
+    },
+    {
+      "name": "Ninja Dojo",
+      "file": "ninja-dojo.html"
+    },
+    {
+      "name": "Midnight Munch",
+      "file": "midnight-munch.html"
+    },
+    {
+      "name": "Candy Cascade",
+      "file": "candy-cascade.html"
+    },
+    {
+      "name": "Nexovault",
+      "file": "nexovault.html"
+    },
+    {
+      "name": "Restoration: Sound & Stone",
+      "file": "restoration-sound-stone.html"
+    },
+    {
+      "name": "Seal & Soothe",
+      "file": "seal-and-soothe.html"
+    },
+    {
+      "name": "Goo Giggles",
+      "file": "goo-giggles.html"
+    },
+    {
+      "name": "Frost & Fright",
+      "file": "frost-and-fright.html"
+    },
+    {
+      "name": "WICK: The Midnight Run",
+      "file": "wick-midnight-run.html"
+    },
+    {
+      "name": "Lava Pocket",
+      "file": "lava-pocket.html"
+    }
+  ]
+}
