@@ -2,14 +2,11 @@
 
 Official GitHub Pages support/privacy site for Ginger B Games.
 
-## IMPORTANT BEFORE PUBLISHING
-Replace this placeholder everywhere:
+## Support Email
+
+Official Ginger B Games support email:
 
 gingerbgames@gmail.com
-
-with the exact Ginger B Games support Gmail address.
-
-There is one occurrence in each HTML page/footer/contact section.
 
 ## Main files
 - index.html — support homepage
